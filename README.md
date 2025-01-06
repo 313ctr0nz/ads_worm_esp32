@@ -42,3 +42,12 @@ Not my jam, but have at it
 https://www.printables.com/model/933484-esp32-s3-eye-camera-cover-mount?lang=en
 
 https://www.printables.com/model/1081523-prusa-camera-case-with-esp32-s3-eye
+
+# enjoy!
+
+<img src="assets/IMG_1838.jpg" alt="wifi" width="504"/>
+<img src="assets/IMG_1834.jpg" alt="mutantalex" width="504"/>
+<img src="assets/IMG_1843.jpg" alt="worm" width="504"/>
+<img src="assets/IMG_1841.jpg" alt="price" width="504"/>
+<img src="assets/IMG_1842.jpg" alt="tps" width="504"/>
+
